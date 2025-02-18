@@ -1,0 +1,13 @@
+folium==0.18.0
+matplotlib==3.7.5
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
+numpy==1.23.5
+pandas==2.0.3
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+scikit-posthocs==0.8.1
+scipy==1.10.1
+seaborn==0.13.2
+statsmodels==0.14.1
+tensorflow==2.10.0
+tensorflow-estimator==2.10.0
+tensorflow-io-gcs-filesystem==0.34.0
