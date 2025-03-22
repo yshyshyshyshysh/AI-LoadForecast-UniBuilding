@@ -1,8 +1,8 @@
 # AI-LoadForecast-UniBuilding
 
-**`Author: Yu-Shin Hu, Kai-Yun Lo, and I-Yun Lisa Hsieh`**
+**`Available online: 19 March 2025 / Author: Yu-Shin Hu, Kai-Yun Lo, and I-Yun Lisa Hsieh`**
 
-This repository contains the code and models for the research paper: AI-Driven Short-Term Load Forecasting Enhanced by Clustering in Multi-Type University Buildings: Insights Across Building Types and Pandemic Phases
+This repository contains the code and models for the research paper [AI-Driven Short-Term Load Forecasting Enhanced by Clustering in Multi-Type University Buildings: Insights Across Building Types and Pandemic Phases](https://www.sciencedirect.com/science/article/pii/S2352710225006540)
 
 
 ## Installation
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Cite this work
 
-If you found this tool useful, please consider citing:
+If you found this work useful, please consider citing:
 
 ```bibtex
 @article{HU2025112417,
